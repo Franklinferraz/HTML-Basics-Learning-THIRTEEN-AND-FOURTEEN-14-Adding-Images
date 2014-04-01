@@ -1,0 +1,14 @@
+15.Images and links
+Good work! Let's make sure you really understand images and links before we move on to the review.
+
+Instructions
+Between the <body> tags, add two images using the <img> tag. One should be a link; the other should not. The link can go anywhere you want.
+After your two images, create a link that's just a line of text. It can link anywhere you want.
+Check the Hint if you need help.
+
+
+14. Congratulations!
+Well done! You now know the basics of creating a web page. If you're feeling lucky, go ahead and tackle the Build Your Own Webpage project.
+
+Instructions
+Click Save & Submit Code to complete the course.
